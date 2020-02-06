@@ -1,7 +1,7 @@
 = Firearms Familiarization
 :imagesdir: img
 :title-slide-background-image: BrushedMetalBackground.jpg
-:customcss: slides.css
+:customcss: customcss/slides.css
 //:revealjs_center: false
 
 //[%notitle]
