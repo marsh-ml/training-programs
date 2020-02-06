@@ -1,25 +1,10 @@
-section.red.background {
-    background-color: red;
-}
-
-.reveal section.divide {
-    background-size: 50% 50%;
-    background-position: left;
-    background-repeat: no-repeat;
-}
-
-.reveal .west {
-    position: fixed;
-    font-size: x-large;
-    top: 20%;
-    left: 10%;
-}
-  
-.reveal .east {
-    position: fixed;
-    font-size: x-large;
-    top: 20%;
-    right: 10%;
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #bc1a1a;
+    color: white;
+    size: 10px;
+    opacity: 0.5;
 }
 
 .reveal .left {

@@ -1,15 +1,15 @@
 = Firearms Familiarization
 :imagesdir: img
-:title-slide-background-image: BrushedMetalBackground.jpg
+:default-background: BrushedMetalBackground.jpg
+:title-slide-background-image: {default-background}
 :customcss: customcss/slides.css
-//:revealjs_center: false
+:logo: PLTCOM-logo_round.png
+:org: PLTCom
+:org-logo: PLTCOM-logo_round.png
 
-//[%notitle]
-//== People's Liberation Training Committee
-//image::img/PLTCOM-logo.jpg[background]
-
+[.header]
 == Course Outline
-image::BrushedMetalBackground.jpg[background, size=cover]
+image::{default-background}[background, size=cover]
 
 [.left]
 * Universal Safety Rules
@@ -30,11 +30,11 @@ image::BrushedMetalBackground.jpg[background, size=cover]
 * Common Malfunctions
 
 == Part 1 Section 1 - Firearm Safety Fundamentals
-image::BrushedMetalBackground.jpg[background, size=cover]
+image::{default-background}[background, size=cover]
 
 [%notitle]
 === safety
-image::BrushedMetalBackground.jpg[background, size=cover]
+image::{default-background}[background, size=cover]
 
 [.left-small]
 * MAJORITY of “accidental” firearm injuries / deaths result from NEGLIGENCE of following the 4 fundamental rules of firearm safety.
@@ -46,3 +46,5 @@ image::BrushedMetalBackground.jpg[background, size=cover]
 * Rule 2 - Keep your finger straight and off the trigger until you NEED to fire.
 * Rule 3 - ALWAYS treat a firearm as if it is loaded. (Drop/Lock/Look)
 * Rule 4 - Understand the “Big Picture Theory”
+
+include::attribution.adoc[]

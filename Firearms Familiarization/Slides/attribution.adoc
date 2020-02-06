@@ -1,0 +1,9 @@
+[%notitle]
+== Attribution
+image::{default-background}[background, size=cover]
+
+This material provided for {org} by PLTCom. 
+
+https://github.com/PLTCom/training-programs
+
+image::{logo}[PLTCom,200,200]
